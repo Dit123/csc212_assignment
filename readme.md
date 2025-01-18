@@ -114,21 +114,6 @@ For_Prediction_Test.csv: Processed test data for sales prediction.
 
 For_Prediction_Data1.csv: Processed data for rock classification.
 
-How to Run
-
-Ensure all required Python libraries are installed:
-
-pip install pandas numpy scikit-learn
-
-Place the datasets in the appropriate folders.
-
-Run the Python scripts for each task:
-
-python linear_regression.py
-python logistic_regression.py
-
-Check the output files and printed metrics for results.
-
 Libraries Used
 
 pandas: Data manipulation and preprocessing.
